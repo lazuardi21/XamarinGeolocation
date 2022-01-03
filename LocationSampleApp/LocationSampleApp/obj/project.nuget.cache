@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fyA/cb3dvYWhwuiCrOskPdrr6K50jatkOk6Ec4O2gk2so08ph7+vcC+IJc9ainG/nAShyDh47Y3XurF6mvgdUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\FullStack\\LocationSampleApp\\LocationSampleApp\\LocationSampleApp\\LocationSampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lfenjano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

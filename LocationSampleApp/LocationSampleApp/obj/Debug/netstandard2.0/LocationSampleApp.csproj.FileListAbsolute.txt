@@ -1,0 +1,15 @@
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\netstandard2.0\LocationSampleApp.deps.json
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\netstandard2.0\LocationSampleApp.dll
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\netstandard2.0\ref\LocationSampleApp.dll
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\netstandard2.0\LocationSampleApp.pdb
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\LocationSampleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\LocationSampleApp.AssemblyInfoInputs.cache
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\LocationSampleApp.AssemblyInfo.cs
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\LocationSampleApp.csproj.CoreCompileInputs.cache
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\LocationSampleApp.dll
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\ref\LocationSampleApp.dll
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\LocationSampleApp.pdb
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\netstandard2.0\LocationSampleApp.csproj.AssemblyReference.cache

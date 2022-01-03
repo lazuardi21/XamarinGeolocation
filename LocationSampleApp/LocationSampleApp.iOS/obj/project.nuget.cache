@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpsRXkQbvUj1DF+n/EFR9mgc/C+Fxbf1t3VvSWqn1k79E1THfRtHHZQqjNQPZ3FVJZPSgT2N45w7pFq7BH9VIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\FullStack\\LocationSampleApp\\LocationSampleApp\\LocationSampleApp.iOS\\LocationSampleApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lfenjano\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lfenjano\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

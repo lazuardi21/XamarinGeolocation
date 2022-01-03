@@ -1,0 +1,1 @@
+D:\Work\FullStack\LocationSampleApp\LocationSampleApp\LocationSampleApp.UWP\LocationSampleApp.UWP.csproj;x64
